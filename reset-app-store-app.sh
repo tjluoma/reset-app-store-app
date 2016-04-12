@@ -5,7 +5,7 @@
 # Mail:	luomat at gmail dot com
 # Date:	2016-04-12
 
-NAME="$0:t:r"
+NAME="reset-app-store-app.sh"
 
 if [ -e "$HOME/.path" ]
 then
