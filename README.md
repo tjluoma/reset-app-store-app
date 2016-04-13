@@ -16,3 +16,14 @@ This script will automatically execute the steps mentioned in my MacStories arti
 4.	Reboots the computer.
 
 It works for me, but use entirely at your own risk.
+
+
+## Advanced Usage
+
+
+	zsh -c "$(curl -sL https://raw.githubusercontent.com/tjluoma/reset-app-store-app/master/reset-app-store-app.sh)"
+
+or, more compactly:
+
+	zsh -c "$(curl -sL http://luo.ma/rasa.sh)"
+
