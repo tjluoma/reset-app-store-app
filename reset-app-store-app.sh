@@ -57,7 +57,7 @@ sudo find /private/var/folders -ipath '*com.apple.appstore*' -depth -mindepth 4 
 
 sudo shutdown -r +1
 
-echo "$NAME: Finished. You have 1 minute to save any unsaved changes before the computer will reboot."
+echo "\n\n\t$NAME: Finished. You have 1 minute to save any unsaved changes before the computer will reboot.\n\n"
 
 ########################################################################################################################
 
